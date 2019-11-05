@@ -5,4 +5,5 @@
     <string name="luz" translatable="false">Light</string>
     <string name="proximidade" translatable="false">Proximity</string>
     <string name="acelerometro" translatable="false">Accelerometer</string>
+    <string name="distancia">Distância:</string>
 </resources>
