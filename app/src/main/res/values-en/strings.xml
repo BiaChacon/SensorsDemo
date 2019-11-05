@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorsDemo</string>
+    <string name="giroscopio" translatable="false">Gyroscope</string>
+    <string name="luz" translatable="false">Light</string>
+    <string name="proximidade" translatable="false">Proximity</string>
+    <string name="acelerometro" translatable="false">Accelerometer</string>
+</resources>

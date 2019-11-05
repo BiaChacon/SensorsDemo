@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorsDemo</string>
+    <string name="proximidade">Proximidade</string>
+    <string name="acelerometro">Acelerômetro</string>
+    <string name="luz">Luz</string>
+    <string name="giroscopio">Giroscópio</string>
+</resources>
