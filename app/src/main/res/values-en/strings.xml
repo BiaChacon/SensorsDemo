@@ -5,7 +5,7 @@
     <string name="luz" translatable="false">Light</string>
     <string name="proximidade" translatable="false">Proximity</string>
     <string name="acelerometro" translatable="false">Accelerometer</string>
-    <string name="distancia">Distância:</string>
-    <string name="nivel_de_luz_ambiente">Nivel de luz ambiente:</string>
+    <string name="distancia">Distance:</string>
+    <string name="nivel_de_luz_ambiente">Ambient light level:</string>
     <string name="biometric">Biometric</string>
 </resources>

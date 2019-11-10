@@ -6,5 +6,5 @@
     <string name="giroscopio">Giroscópio</string>
     <string name="distancia">Distância:</string>
     <string name="nivel_de_luz_ambiente">Nivel de luz ambiente:</string>
-    <string name="biometric">Biometric</string>
+    <string name="biometric">Biométrico</string>
 </resources>
